@@ -1,0 +1,231 @@
+
+---Downloaded files---
+The import files for: Justshoppe Demo 7 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/delicious%20bakery
+Data file = H:\SEM 5\XAMPP\htdocs\delicious bakery\wp-content\plugins\justshoppe-features/inc/demo-import/site7-chocolates/data.xml
+Widget file = H:\SEM 5\XAMPP\htdocs\delicious bakery\wp-content\plugins\justshoppe-features/inc/demo-import/site7-chocolates/widgets.wie
+Customizer file = H:\SEM 5\XAMPP\htdocs\delicious bakery\wp-content\plugins\justshoppe-features/inc/demo-import/site7-chocolates/settings.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "blog_4" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "product-03" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "aboutBG" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tomatoes" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pesto-sauce" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pesto-sauce" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "1a8e7553c0b0fb6bdb3d96f1ec420c78_pepperoni-pizza-clipart-transparent-pizza-clipart-hd-png-_860-528" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tomato-sauce" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tomato-sauce" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tomato-sauce" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tomato-sauce" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "6-slices" (Media)
+[ERROR] Failed to import "dessert-447165_1280-compressed.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cake_3.png" (Media)
+[ERROR] Failed to import "spl_cake_img.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cake_3.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cake_3.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pattern-a.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sweet-2.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sweet-3.jpg" (Media)
+[ERROR] Failed to import "neve-beauty-shop-28.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sweet-5.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "chef-1.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "chef-3.jpg" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Products - No Title - Imported
+Recent Posts - No Title - Imported
+
+Footer Widgets Column 1 : 
+
+Custom HTML - Contact Info - Imported
+
+Footer Widgets Column 2 : 
+
+Custom HTML - No Title - Imported
+
+Footer Widgets Column 3 : 
+
+Custom HTML - Opening Hours - Imported
+
+Sidebar Shop : 
+
+Text - About us - Imported
+Custom HTML - Our Guarantee - Imported
+Text - No Title - Imported
+
+Off Canvas Filters : 
+
+Product Categories - Product categories - Imported
+Filter Products by Rating - Average rating - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by - Imported
+
+

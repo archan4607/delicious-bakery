@@ -1,0 +1,29 @@
+[10/Aug/2021:05:33:13] (I): WordPress Instance Info:
+[10/Aug/2021:05:33:13] (I): Home URL : http://localhost/Delicious%20Bakery
+[10/Aug/2021:05:33:13] (I): Site URL : http://localhost/Delicious%20Bakery
+[10/Aug/2021:05:33:13] (I): WordPress Version : 5.7.2
+[10/Aug/2021:05:33:13] (I): Onboarding Version : 1.1.14
+[10/Aug/2021:05:33:13] (I): Multisite : No
+[10/Aug/2021:05:33:13] (I): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.31
+[10/Aug/2021:05:33:13] (I): PHP Version : 7.2.31
+[10/Aug/2021:05:33:13] (I): HTTPS : No
+[10/Aug/2021:05:33:13] (I): PHP Max Execution Time : 120
+[10/Aug/2021:05:33:13] (I): PHP Max Input Vars : 1000
+[10/Aug/2021:05:33:13] (I): Max Upload Size : 41943040
+[10/Aug/2021:05:33:13] (I): Plugins:
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Direct checkout, WooCommerce Single page checkout , WooCommerce One page checkout : v2.1.6 (PI Websolution)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Bakery helpers : v1.0.16 (nouthemes)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Elementor Pro : v3.3.4 (Elementor.com)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Elementor : v3.3.1 (Elementor.com)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] WPBakery Page Builder : v6.7.0 (Michael M - WPBakery.com)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Order Delivery Date Pro for WooCommerce : v9.24.0 (Tyche Softwares)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Slider Revolution : v6.5.4 (ThemePunch)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Templates Patterns Collection : v1.1.14 (ThemeIsle)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Orbit Fox Companion : v2.10.6 (Themeisle)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] UpdraftPlus - Backup/Restore : v2.16.59.0 (UpdraftPlus.Com, DavidAnderson)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] Razorpay for WooCommerce : v2.7.2 (Team Razorpay)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] WooCommerce Checkout Add-Ons : v2.5.2 (SkyVerge)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] WooCommerce : v5.5.2 (Automattic)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] WP Mail SMTP : v2.9.0 (WPForms)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] WPForms : v1.6.8 (WPForms)
+[10/Aug/2021:05:33:13] (I): [PLUGIN] YITH WooCommerce Wishlist Premium : v3.0.20 (YITH)
